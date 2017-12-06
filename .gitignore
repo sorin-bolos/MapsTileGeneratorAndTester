@@ -33,3 +33,4 @@ Backup*
 /deploy_scripts
 /VcServices/App_Data/ Downloads
 /.vs/
+packages/
