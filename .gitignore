@@ -1,0 +1,35 @@
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+log.txt
+*.cs.orig
+deploy_scripts/blap.zip
+Backup/
+Backup1/
+Backup2
+VcAdminWeb/UploadedUserLists/
+VcConfEngine/App.Debug.config
+VcConfStarter/App.Debug.config
+.vs/config/applicationhost.config
+Backup*
+/deploy_scripts
+/VcServices/App_Data/ Downloads
+/.vs/
